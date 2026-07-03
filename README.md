@@ -74,12 +74,6 @@ El análisis permitió:
 
 ---
 
-# 📈 Visualizaciones
-
-El proyecto incorpora diferentes gráficos e indicadores que permiten comprender de manera visual el comportamiento de los clientes, identificar tendencias relevantes y facilitar la interpretación de las variables con mayor influencia en el abandono del servicio.
-
----
-
 ## ▶ Ejecutar el proyecto
 
 Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
