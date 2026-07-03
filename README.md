@@ -85,7 +85,7 @@ El proyecto incorpora diferentes gráficos e indicadores que permiten comprender
 Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergioingmeca-cyber/Project-ConnectaTel/blob/main/Project_ConnectaTel.ipynb)
-```
+
 
 ---
 
