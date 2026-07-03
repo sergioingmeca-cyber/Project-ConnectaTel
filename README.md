@@ -80,16 +80,11 @@ El proyecto incorpora diferentes gráficos e indicadores que permiten comprender
 
 ---
 
-# 🚀 Cómo ejecutar el proyecto
+## ▶ Ejecutar el proyecto
 
-```bash
-git clone https://github.com/sergioingmeca-cyber/Project-ConnectaTel.git
+Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
 
-cd Project-ConnectaTel
-
-pip install -r requirements.txt
-
-jupyter notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergioingmeca-cyber/Project-ConnectaTel/blob/main/Project_ConnectaTel.ipynb)
 ```
 
 ---
