@@ -1,11 +1,12 @@
 # -ConnectaTel
 
-Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConectaTel
+📖 Resumen Ejecutivo
 
-El dataset `ConectaTel` incluye plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
-users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
-usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud)
-con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail.
+En la industria de las telecomunicaciones, comprender las causas de la pérdida de clientes es fundamental para mejorar la retención y reducir el impacto económico asociado al abandono del servicio.
+
+En este proyecto se realizó un análisis exploratorio de datos (EDA) sobre la información de clientes de ConnectaTel con el propósito de identificar patrones de comportamiento, variables relevantes y posibles factores asociados a la cancelación del servicio.
+
+A través de procesos de limpieza, transformación y visualización de datos se obtuvieron hallazgos que permiten apoyar la toma de decisiones basada en datos.
 
 
 ## 📂 Contenido del repositorio
@@ -17,7 +18,7 @@ con valores faltantes, sentinels, outliers y problemas de calidad diseñados par
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/drive/146NUg_Zez6b_HQdQbQDYXpCmJ817tWvr#scrollTo=789bfa05)
 
 O:
 
@@ -26,13 +27,10 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/everpeak_analysis.ipynb`
+1. Abre `Project-ConnectaTel.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración 
+- Identificar los factores que influyen en el abandono de clientes (Customer Churn) mediante técnicas de análisis exploratorio, proporcionando información útil para diseñar estrategias de retención.
